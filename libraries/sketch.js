@@ -1,6 +1,6 @@
 let img;
 function preload() {
-  img = loadImage('IMG_6112.PNG');
+  img = loadImage('libraries/IMG_6112.PNG');
   
 
 
