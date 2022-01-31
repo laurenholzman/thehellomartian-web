@@ -7,7 +7,7 @@ var rad = 11;
 let current;
 
 var places = [[208,37],[198,54],[240,106],[229,124],[316,128],[231,205],[249,328],[234,445]];
-var descriptions = ['A muddy field that is redeemed by the adjacent dog park.','The best place for cheap coffee.','The best part for dangerously fast sledding','Play a game of pickleball or search for the Geocache I have hidden here!', 'A summertime favorite for swimming and paddleboarding','Excellent Bahn Mi and super friendly service!','They have possibly my favorite donuts to date and sell out quickly!','A fun park with excellent views at sunset.'];
+var descriptions = ['A muddy field that is redeemed by the adjacent dog park.','The best place for cheap coffee!','The best street for dangerously fast sledding','Play a game of pickleball or search for the Geocache I have hidden here!', 'A summertime favorite for swimming and paddleboarding.','Excellent Bahn Mi and super friendly service!','They have possibly my favorite donuts to date and sell out quickly!','A fun park with excellent views at sunset.'];
 
 function preload() {
   img1 = loadImage('libraries/IMG_6112.PNG');
