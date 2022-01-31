@@ -3,7 +3,7 @@ let img2;
 var value = 0;
 var dim = 600;
 var value2 = 0;
-var rad = 10;
+var rad = 11;
 let current;
 
 var places = [[208,37],[198,54],[240,106],[229,124],[316,128],[231,205],[249,328],[234,445]];
